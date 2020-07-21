@@ -9,7 +9,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      # https://github.com/JasonEtco/rss-to-readme
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://blog.kartones.net/syndication.rss
           readme-section: feed
+          max: 5
