@@ -1,6 +1,4 @@
-You can also visit my blog: https://blog.kartones.net/
-
-Here are the latest posts I've written:
+Latest posts I've written [at my blog](https://blog.kartones.net/):
 <!--START_SECTION:feed-->
 
 <!--END_SECTION:feed-->
