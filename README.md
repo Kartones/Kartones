@@ -1,7 +1,7 @@
 Latest posts I've written [at my blog](https://blog.kartones.net/):
 
 <!--START_SECTION:blogposts-->
-
+...
 <!--END_SECTION:blogposts-->
 
 <hr>
