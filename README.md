@@ -1,8 +1,8 @@
 Latest posts I've written [at my blog](https://blog.kartones.net/):
 
-<!--START_SECTION:feed-->
+<!--START_SECTION:blogposts-->
 
-<!--END_SECTION:feed-->
+<!--END_SECTION:blogposts-->
 
 <hr>
 

@@ -15,5 +15,5 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://blog.kartones.net/syndication.rss
-          readme-section: feed
+          readme-section: blogposts
           max: 5
