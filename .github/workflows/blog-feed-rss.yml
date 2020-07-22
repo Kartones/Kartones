@@ -1,6 +1,8 @@
 name: Update this repo's README with RSS feeds
 
 on:
+  push:
+    branches: [ master ]
   schedule:
     # each 6h
     - cron: 0 */6 * * *
