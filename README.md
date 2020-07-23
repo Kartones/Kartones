@@ -1,4 +1,4 @@
-Latest posts I've written [at my blog](https://blog.kartones.net/):
+Latest posts [from my blog](https://blog.kartones.net/):
 
 <!--START_SECTION:blogposts-->
 * [Book Review: The Business Book - Big Ideas Simply Explained](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-the-business-book&#x2F;)
@@ -10,4 +10,4 @@ Latest posts I've written [at my blog](https://blog.kartones.net/):
 
 <hr>
 
-I also have a few [gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest to you.
+I also have a few [gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest.
