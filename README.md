@@ -8,6 +8,6 @@ Latest posts [from my blog](https://blog.kartones.net/):
 * [Google Meet vs Skype on Tethered 4G](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;google-meet-vs-skype-tethered-4g&#x2F;)
 <!--END_SECTION:blogposts-->
 
-<hr>
+
 
 I also have a few [gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest.
