@@ -1,4 +1,4 @@
-Latest posts [from my blog](https://blog.kartones.net/):
+📝 Latest posts [from my blog](https://blog.kartones.net/):
 
 <!--START_SECTION:blogposts-->
 * [Type inference complex scenarios - A BigQuery example](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;type-inference-complex-scenarios-bigquery-example&#x2F;)
@@ -10,4 +10,4 @@ Latest posts [from my blog](https://blog.kartones.net/):
 
 
 
-I also have a few [gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest.
+📋 I also have a few [gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest.
