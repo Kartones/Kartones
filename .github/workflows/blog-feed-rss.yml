@@ -4,8 +4,8 @@ on:
   push:
     branches: [ master ]
   schedule:
-    # each 6h
-    - cron: 0 */6 * * *
+    # each 24h, at midnight UTC
+    - cron: 0 0 * * *
 
 jobs:
   update:
