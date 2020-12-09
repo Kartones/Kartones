@@ -1,0 +1,266 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    style="margin:auto;background:#000000;display:block;z-index:1;position:relative" width="800" height="128"
+    viewBox="0 0 800 128">
+    <defs>
+        <pattern id="matrix-pattern" x="0" y="0" width="128" height="128" patternUnits="userSpaceOnUse">
+            <g>
+                <g transform="scale(0.5)">
+                    <g style="font-family:courier new;font-size:15px">
+                        <g transform="translate(0 17)"><text style="animation-delay:-2.07s">チ</text></g>
+                        <g transform="translate(0 34)"><text style="animation-delay:-1.99s">ン</text></g>
+                        <g transform="translate(0 51)"><text style="animation-delay:-1.90s">ネ</text></g>
+                        <g transform="translate(0 68)"><text style="animation-delay:-1.82s">ヰ</text></g>
+                        <g transform="translate(0 85)"><text style="animation-delay:-1.74s">Ｅ</text></g>
+                        <g transform="translate(0 102)"><text style="animation-delay:-1.65s">チ</text></g>
+                        <g transform="translate(0 119)"><text style="animation-delay:-1.57s">メ</text></g>
+                        <g transform="translate(0 137)"><text style="animation-delay:-1.49s">Ｗ</text></g>
+                        <g transform="translate(0 154)"><text style="animation-delay:-1.40s">ト</text></g>
+                        <g transform="translate(0 171)"><text style="animation-delay:-1.32s">Ａ</text></g>
+                        <g transform="translate(0 188)"><text style="animation-delay:-1.24s">ツ</text></g>
+                        <g transform="translate(0 205)"><text style="animation-delay:-1.15s">ン</text></g>
+                        <g transform="translate(0 222)"><text style="animation-delay:-1.07s">５</text></g>
+                        <g transform="translate(0 239)"><text style="animation-delay:-0.99s">４</text></g>
+                        <g transform="translate(0 256)"><text style="animation-delay:-0.90s">ウ</text></g>
+                        <g transform="translate(17 17)"><text style="animation-delay:-2.45s">ヌ</text></g>
+                        <g transform="translate(17 34)"><text style="animation-delay:-2.37s">７</text></g>
+                        <g transform="translate(17 51)"><text style="animation-delay:-2.29s">ン</text></g>
+                        <g transform="translate(17 68)"><text style="animation-delay:-2.20s">シ</text></g>
+                        <g transform="translate(17 85)"><text style="animation-delay:-2.12s">Ｌ</text></g>
+                        <g transform="translate(17 102)"><text style="animation-delay:-2.04s">ヤ</text></g>
+                        <g transform="translate(17 119)"><text style="animation-delay:-1.95s">６</text></g>
+                        <g transform="translate(17 137)"><text style="animation-delay:-1.87s">ネ</text></g>
+                        <g transform="translate(17 154)"><text style="animation-delay:-1.79s">ロ</text></g>
+                        <g transform="translate(17 171)"><text style="animation-delay:-1.70s">ヒ</text></g>
+                        <g transform="translate(17 188)"><text style="animation-delay:-1.62s">ミ</text></g>
+                        <g transform="translate(17 205)"><text style="animation-delay:-1.54s">８</text></g>
+                        <g transform="translate(17 222)"><text style="animation-delay:-1.45s">サ</text></g>
+                        <g transform="translate(17 239)"><text style="animation-delay:-1.37s">ヱ</text></g>
+                        <g transform="translate(17 256)"><text style="animation-delay:-1.29s">サ</text></g>
+                        <g transform="translate(34 17)"><text style="animation-delay:-2.15s">ケ</text></g>
+                        <g transform="translate(34 34)"><text style="animation-delay:-2.06s">Ｅ</text></g>
+                        <g transform="translate(34 51)"><text style="animation-delay:-1.98s">Ｏ</text></g>
+                        <g transform="translate(34 68)"><text style="animation-delay:-1.90s">フ</text></g>
+                        <g transform="translate(34 85)"><text style="animation-delay:-1.81s">レ</text></g>
+                        <g transform="translate(34 102)"><text style="animation-delay:-1.73s">８</text></g>
+                        <g transform="translate(34 119)"><text style="animation-delay:-1.65s">サ</text></g>
+                        <g transform="translate(34 137)"><text style="animation-delay:-1.56s">Ｍ</text></g>
+                        <g transform="translate(34 154)"><text style="animation-delay:-1.48s">Ｙ</text></g>
+                        <g transform="translate(34 171)"><text style="animation-delay:-1.40s">Ｗ</text></g>
+                        <g transform="translate(34 188)"><text style="animation-delay:-1.31s">マ</text></g>
+                        <g transform="translate(34 205)"><text style="animation-delay:-1.23s">ミ</text></g>
+                        <g transform="translate(34 222)"><text style="animation-delay:-1.15s">ロ</text></g>
+                        <g transform="translate(34 239)"><text style="animation-delay:-1.06s">９</text></g>
+                        <g transform="translate(34 256)"><text style="animation-delay:-0.98s">ア</text></g>
+                        <g transform="translate(51 17)"><text style="animation-delay:-1.66s">フ</text></g>
+                        <g transform="translate(51 34)"><text style="animation-delay:-1.58s">Ａ</text></g>
+                        <g transform="translate(51 51)"><text style="animation-delay:-1.50s">Ｐ</text></g>
+                        <g transform="translate(51 68)"><text style="animation-delay:-1.41s">モ</text></g>
+                        <g transform="translate(51 85)"><text style="animation-delay:-1.33s">ワ</text></g>
+                        <g transform="translate(51 102)"><text style="animation-delay:-1.25s">オ</text></g>
+                        <g transform="translate(51 119)"><text style="animation-delay:-1.16s">フ</text></g>
+                        <g transform="translate(51 137)"><text style="animation-delay:-1.08s">９</text></g>
+                        <g transform="translate(51 154)"><text style="animation-delay:-1.00s">Ｗ</text></g>
+                        <g transform="translate(51 171)"><text style="animation-delay:-0.91s">Ｉ</text></g>
+                        <g transform="translate(51 188)"><text style="animation-delay:-0.83s">Ｕ</text></g>
+                        <g transform="translate(51 205)"><text style="animation-delay:-0.75s">コ</text></g>
+                        <g transform="translate(51 222)"><text style="animation-delay:-0.66s">ス</text></g>
+                        <g transform="translate(51 239)"><text style="animation-delay:-0.58s">Ｒ</text></g>
+                        <g transform="translate(51 256)"><text style="animation-delay:-0.50s">サ</text></g>
+                        <g transform="translate(68 17)"><text style="animation-delay:-2.47s">キ</text></g>
+                        <g transform="translate(68 34)"><text style="animation-delay:-2.39s">タ</text></g>
+                        <g transform="translate(68 51)"><text style="animation-delay:-2.31s">Ｄ</text></g>
+                        <g transform="translate(68 68)"><text style="animation-delay:-2.22s">レ</text></g>
+                        <g transform="translate(68 85)"><text style="animation-delay:-2.14s">８</text></g>
+                        <g transform="translate(68 102)"><text style="animation-delay:-2.06s">ネ</text></g>
+                        <g transform="translate(68 119)"><text style="animation-delay:-1.97s">ト</text></g>
+                        <g transform="translate(68 137)"><text style="animation-delay:-1.89s">Ｒ</text></g>
+                        <g transform="translate(68 154)"><text style="animation-delay:-1.81s">キ</text></g>
+                        <g transform="translate(68 171)"><text style="animation-delay:-1.72s">ツ</text></g>
+                        <g transform="translate(68 188)"><text style="animation-delay:-1.64s">ネ</text></g>
+                        <g transform="translate(68 205)"><text style="animation-delay:-1.56s">セ</text></g>
+                        <g transform="translate(68 222)"><text style="animation-delay:-1.47s">Ｎ</text></g>
+                        <g transform="translate(68 239)"><text style="animation-delay:-1.39s">ナ</text></g>
+                        <g transform="translate(68 256)"><text style="animation-delay:-1.31s">オ</text></g>
+                        <g transform="translate(85 17)"><text style="animation-delay:-2.09s">シ</text></g>
+                        <g transform="translate(85 34)"><text style="animation-delay:-2.01s">モ</text></g>
+                        <g transform="translate(85 51)"><text style="animation-delay:-1.93s">Ｎ</text></g>
+                        <g transform="translate(85 68)"><text style="animation-delay:-1.84s">ヒ</text></g>
+                        <g transform="translate(85 85)"><text style="animation-delay:-1.76s">ヨ</text></g>
+                        <g transform="translate(85 102)"><text style="animation-delay:-1.68s">オ</text></g>
+                        <g transform="translate(85 119)"><text style="animation-delay:-1.59s">ヒ</text></g>
+                        <g transform="translate(85 137)"><text style="animation-delay:-1.51s">シ</text></g>
+                        <g transform="translate(85 154)"><text style="animation-delay:-1.43s">Ｔ</text></g>
+                        <g transform="translate(85 171)"><text style="animation-delay:-1.34s">１</text></g>
+                        <g transform="translate(85 188)"><text style="animation-delay:-1.26s">ホ</text></g>
+                        <g transform="translate(85 205)"><text style="animation-delay:-1.18s">Ｏ</text></g>
+                        <g transform="translate(85 222)"><text style="animation-delay:-1.09s">ヨ</text></g>
+                        <g transform="translate(85 239)"><text style="animation-delay:-1.01s">ネ</text></g>
+                        <g transform="translate(85 256)"><text style="animation-delay:-0.93s">ス</text></g>
+                        <g transform="translate(102 17)"><text style="animation-delay:-1.94s">ヱ</text></g>
+                        <g transform="translate(102 34)"><text style="animation-delay:-1.86s">Ｆ</text></g>
+                        <g transform="translate(102 51)"><text style="animation-delay:-1.78s">セ</text></g>
+                        <g transform="translate(102 68)"><text style="animation-delay:-1.69s">ツ</text></g>
+                        <g transform="translate(102 85)"><text style="animation-delay:-1.61s">Ｙ</text></g>
+                        <g transform="translate(102 102)"><text style="animation-delay:-1.53s">Ｉ</text></g>
+                        <g transform="translate(102 119)"><text style="animation-delay:-1.44s">カ</text></g>
+                        <g transform="translate(102 137)"><text style="animation-delay:-1.36s">ヨ</text></g>
+                        <g transform="translate(102 154)"><text style="animation-delay:-1.28s">ス</text></g>
+                        <g transform="translate(102 171)"><text style="animation-delay:-1.19s">メ</text></g>
+                        <g transform="translate(102 188)"><text style="animation-delay:-1.11s">Ｏ</text></g>
+                        <g transform="translate(102 205)"><text style="animation-delay:-1.03s">Ｉ</text></g>
+                        <g transform="translate(102 222)"><text style="animation-delay:-0.94s">ン</text></g>
+                        <g transform="translate(102 239)"><text style="animation-delay:-0.86s">マ</text></g>
+                        <g transform="translate(102 256)"><text style="animation-delay:-0.78s">ミ</text></g>
+                        <g transform="translate(119 17)"><text style="animation-delay:-1.90s">Ｕ</text></g>
+                        <g transform="translate(119 34)"><text style="animation-delay:-1.82s">モ</text></g>
+                        <g transform="translate(119 51)"><text style="animation-delay:-1.73s">ロ</text></g>
+                        <g transform="translate(119 68)"><text style="animation-delay:-1.65s">タ</text></g>
+                        <g transform="translate(119 85)"><text style="animation-delay:-1.57s">ラ</text></g>
+                        <g transform="translate(119 102)"><text style="animation-delay:-1.48s">Ｒ</text></g>
+                        <g transform="translate(119 119)"><text style="animation-delay:-1.40s">Ａ</text></g>
+                        <g transform="translate(119 137)"><text style="animation-delay:-1.32s">ヤ</text></g>
+                        <g transform="translate(119 154)"><text style="animation-delay:-1.23s">Ｈ</text></g>
+                        <g transform="translate(119 171)"><text style="animation-delay:-1.15s">ヰ</text></g>
+                        <g transform="translate(119 188)"><text style="animation-delay:-1.07s">イ</text></g>
+                        <g transform="translate(119 205)"><text style="animation-delay:-0.98s">ヱ</text></g>
+                        <g transform="translate(119 222)"><text style="animation-delay:-0.90s">ヌ</text></g>
+                        <g transform="translate(119 239)"><text style="animation-delay:-0.82s">Ｊ</text></g>
+                        <g transform="translate(119 256)"><text style="animation-delay:-0.73s">カ</text></g>
+                        <g transform="translate(137 17)"><text style="animation-delay:-2.01s">ン</text></g>
+                        <g transform="translate(137 34)"><text style="animation-delay:-1.92s">Ｆ</text></g>
+                        <g transform="translate(137 51)"><text style="animation-delay:-1.84s">シ</text></g>
+                        <g transform="translate(137 68)"><text style="animation-delay:-1.76s">タ</text></g>
+                        <g transform="translate(137 85)"><text style="animation-delay:-1.67s">Ｕ</text></g>
+                        <g transform="translate(137 102)"><text style="animation-delay:-1.59s">Ｃ</text></g>
+                        <g transform="translate(137 119)"><text style="animation-delay:-1.51s">６</text></g>
+                        <g transform="translate(137 137)"><text style="animation-delay:-1.42s">ア</text></g>
+                        <g transform="translate(137 154)"><text style="animation-delay:-1.34s">ヰ</text></g>
+                        <g transform="translate(137 171)"><text style="animation-delay:-1.26s">キ</text></g>
+                        <g transform="translate(137 188)"><text style="animation-delay:-1.17s">ソ</text></g>
+                        <g transform="translate(137 205)"><text style="animation-delay:-1.09s">ウ</text></g>
+                        <g transform="translate(137 222)"><text style="animation-delay:-1.01s">ヒ</text></g>
+                        <g transform="translate(137 239)"><text style="animation-delay:-0.92s">ヰ</text></g>
+                        <g transform="translate(137 256)"><text style="animation-delay:-0.84s">ホ</text></g>
+                        <g transform="translate(154 17)"><text style="animation-delay:-1.40s">Ｗ</text></g>
+                        <g transform="translate(154 34)"><text style="animation-delay:-1.32s">ネ</text></g>
+                        <g transform="translate(154 51)"><text style="animation-delay:-1.24s">ワ</text></g>
+                        <g transform="translate(154 68)"><text style="animation-delay:-1.15s">ワ</text></g>
+                        <g transform="translate(154 85)"><text style="animation-delay:-1.07s">マ</text></g>
+                        <g transform="translate(154 102)"><text style="animation-delay:-0.99s">Ｒ</text></g>
+                        <g transform="translate(154 119)"><text style="animation-delay:-0.90s">ウ</text></g>
+                        <g transform="translate(154 137)"><text style="animation-delay:-0.82s">マ</text></g>
+                        <g transform="translate(154 154)"><text style="animation-delay:-0.74s">Ｕ</text></g>
+                        <g transform="translate(154 171)"><text style="animation-delay:-0.65s">テ</text></g>
+                        <g transform="translate(154 188)"><text style="animation-delay:-0.57s">６</text></g>
+                        <g transform="translate(154 205)"><text style="animation-delay:-0.49s">ウ</text></g>
+                        <g transform="translate(154 222)"><text style="animation-delay:-0.40s">２</text></g>
+                        <g transform="translate(154 239)"><text style="animation-delay:-0.32s">６</text></g>
+                        <g transform="translate(154 256)"><text style="animation-delay:-0.24s">ヒ</text></g>
+                        <g transform="translate(171 17)"><text style="animation-delay:-2.25s">２</text></g>
+                        <g transform="translate(171 34)"><text style="animation-delay:-2.17s">フ</text></g>
+                        <g transform="translate(171 51)"><text style="animation-delay:-2.08s">Ｍ</text></g>
+                        <g transform="translate(171 68)"><text style="animation-delay:-2.00s">１</text></g>
+                        <g transform="translate(171 85)"><text style="animation-delay:-1.92s">Ｂ</text></g>
+                        <g transform="translate(171 102)"><text style="animation-delay:-1.83s">シ</text></g>
+                        <g transform="translate(171 119)"><text style="animation-delay:-1.75s">テ</text></g>
+                        <g transform="translate(171 137)"><text style="animation-delay:-1.67s">ヒ</text></g>
+                        <g transform="translate(171 154)"><text style="animation-delay:-1.58s">Ｉ</text></g>
+                        <g transform="translate(171 171)"><text style="animation-delay:-1.50s">ネ</text></g>
+                        <g transform="translate(171 188)"><text style="animation-delay:-1.42s">ロ</text></g>
+                        <g transform="translate(171 205)"><text style="animation-delay:-1.33s">３</text></g>
+                        <g transform="translate(171 222)"><text style="animation-delay:-1.25s">タ</text></g>
+                        <g transform="translate(171 239)"><text style="animation-delay:-1.17s">ホ</text></g>
+                        <g transform="translate(171 256)"><text style="animation-delay:-1.08s">ノ</text></g>
+                        <g transform="translate(188 17)"><text style="animation-delay:-2.24s">ソ</text></g>
+                        <g transform="translate(188 34)"><text style="animation-delay:-2.16s">ウ</text></g>
+                        <g transform="translate(188 51)"><text style="animation-delay:-2.08s">Ｙ</text></g>
+                        <g transform="translate(188 68)"><text style="animation-delay:-1.99s">ミ</text></g>
+                        <g transform="translate(188 85)"><text style="animation-delay:-1.91s">Ｄ</text></g>
+                        <g transform="translate(188 102)"><text style="animation-delay:-1.83s">ン</text></g>
+                        <g transform="translate(188 119)"><text style="animation-delay:-1.74s">ケ</text></g>
+                        <g transform="translate(188 137)"><text style="animation-delay:-1.66s">ン</text></g>
+                        <g transform="translate(188 154)"><text style="animation-delay:-1.58s">ネ</text></g>
+                        <g transform="translate(188 171)"><text style="animation-delay:-1.49s">Ｊ</text></g>
+                        <g transform="translate(188 188)"><text style="animation-delay:-1.41s">Ｂ</text></g>
+                        <g transform="translate(188 205)"><text style="animation-delay:-1.33s">フ</text></g>
+                        <g transform="translate(188 222)"><text style="animation-delay:-1.24s">ノ</text></g>
+                        <g transform="translate(188 239)"><text style="animation-delay:-1.16s">ホ</text></g>
+                        <g transform="translate(188 256)"><text style="animation-delay:-1.08s">ン</text></g>
+                        <g transform="translate(205 17)"><text style="animation-delay:-1.62s">オ</text></g>
+                        <g transform="translate(205 34)"><text style="animation-delay:-1.54s">ノ</text></g>
+                        <g transform="translate(205 51)"><text style="animation-delay:-1.46s">Ｓ</text></g>
+                        <g transform="translate(205 68)"><text style="animation-delay:-1.37s">リ</text></g>
+                        <g transform="translate(205 85)"><text style="animation-delay:-1.29s">カ</text></g>
+                        <g transform="translate(205 102)"><text style="animation-delay:-1.21s">ム</text></g>
+                        <g transform="translate(205 119)"><text style="animation-delay:-1.12s">Ｖ</text></g>
+                        <g transform="translate(205 137)"><text style="animation-delay:-1.04s">ツ</text></g>
+                        <g transform="translate(205 154)"><text style="animation-delay:-0.96s">Ｈ</text></g>
+                        <g transform="translate(205 171)"><text style="animation-delay:-0.87s">ウ</text></g>
+                        <g transform="translate(205 188)"><text style="animation-delay:-0.79s">４</text></g>
+                        <g transform="translate(205 205)"><text style="animation-delay:-0.71s">８</text></g>
+                        <g transform="translate(205 222)"><text style="animation-delay:-0.62s">Ｌ</text></g>
+                        <g transform="translate(205 239)"><text style="animation-delay:-0.54s">ナ</text></g>
+                        <g transform="translate(205 256)"><text style="animation-delay:-0.46s">Ｖ</text></g>
+                        <g transform="translate(222 17)"><text style="animation-delay:-1.45s">ム</text></g>
+                        <g transform="translate(222 34)"><text style="animation-delay:-1.37s">Ｒ</text></g>
+                        <g transform="translate(222 51)"><text style="animation-delay:-1.29s">４</text></g>
+                        <g transform="translate(222 68)"><text style="animation-delay:-1.20s">Ｒ</text></g>
+                        <g transform="translate(222 85)"><text style="animation-delay:-1.12s">Ｏ</text></g>
+                        <g transform="translate(222 102)"><text style="animation-delay:-1.04s">ヰ</text></g>
+                        <g transform="translate(222 119)"><text style="animation-delay:-0.95s">ハ</text></g>
+                        <g transform="translate(222 137)"><text style="animation-delay:-0.87s">レ</text></g>
+                        <g transform="translate(222 154)"><text style="animation-delay:-0.79s">ヱ</text></g>
+                        <g transform="translate(222 171)"><text style="animation-delay:-0.70s">Ｙ</text></g>
+                        <g transform="translate(222 188)"><text style="animation-delay:-0.62s">Ｕ</text></g>
+                        <g transform="translate(222 205)"><text style="animation-delay:-0.54s">１</text></g>
+                        <g transform="translate(222 222)"><text style="animation-delay:-0.45s">Ｑ</text></g>
+                        <g transform="translate(222 239)"><text style="animation-delay:-0.37s">ト</text></g>
+                        <g transform="translate(222 256)"><text style="animation-delay:-0.29s">６</text></g>
+                        <g transform="translate(239 17)"><text style="animation-delay:-1.42s">Ｙ</text></g>
+                        <g transform="translate(239 34)"><text style="animation-delay:-1.34s">ケ</text></g>
+                        <g transform="translate(239 51)"><text style="animation-delay:-1.26s">ヰ</text></g>
+                        <g transform="translate(239 68)"><text style="animation-delay:-1.17s">ユ</text></g>
+                        <g transform="translate(239 85)"><text style="animation-delay:-1.09s">ソ</text></g>
+                        <g transform="translate(239 102)"><text style="animation-delay:-1.01s">サ</text></g>
+                        <g transform="translate(239 119)"><text style="animation-delay:-0.92s">ヤ</text></g>
+                        <g transform="translate(239 137)"><text style="animation-delay:-0.84s">ヨ</text></g>
+                        <g transform="translate(239 154)"><text style="animation-delay:-0.76s">ウ</text></g>
+                        <g transform="translate(239 171)"><text style="animation-delay:-0.67s">フ</text></g>
+                        <g transform="translate(239 188)"><text style="animation-delay:-0.59s">ヤ</text></g>
+                        <g transform="translate(239 205)"><text style="animation-delay:-0.51s">Ｘ</text></g>
+                        <g transform="translate(239 222)"><text style="animation-delay:-0.42s">コ</text></g>
+                        <g transform="translate(239 239)"><text style="animation-delay:-0.34s">７</text></g>
+                        <g transform="translate(239 256)"><text style="animation-delay:-0.26s">テ</text></g>
+
+                        <style type="text/css">
+                            @keyframes matrix {
+                                0% {
+                                    opacity: 1;
+                                    fill: #c5ff10;
+                                }
+                                10% {
+                                    opacity: 1;
+                                    fill: #34ff00;
+                                }
+                                50% {
+                                    opacity: 0
+                                }
+                                100% {
+                                    opacity: 0
+                                }
+                            }
+                            text {
+                                fill: #34ff00;
+                                animation: matrix 1.25s linear infinite;
+                                transform: scaleX(-0.7);
+                            }
+                        </style>
+                    </g>
+                </g>
+            </g>
+
+        </pattern>
+    </defs>
+
+    <rect x="0" y="0" width="800" height="128" fill="url(#matrix-pattern)"></rect>
+</svg>
