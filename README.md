@@ -12,4 +12,4 @@
 
 📋 I also have a few [gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest ([the PostgreSQL cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546) has +2.5k stars and hundreds of forks).
 
-<img src="matrix-effect.svg" width="800" height="128">
+<img src="matrix-effect.svg" width="100%" height="128">
