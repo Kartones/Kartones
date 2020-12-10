@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-    style="margin:auto;background:#0d1117;display:block;z-index:1;position:relative" width="800" height="128"
+    style="margin:auto;background:transparent;display:block;z-index:1;position:relative" width="800" height="128"
     viewBox="0 0 800 128">
     <defs>
         <pattern id="matrix-pattern" x="0" y="0" width="128" height="128" patternUnits="userSpaceOnUse">
