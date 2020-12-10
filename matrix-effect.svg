@@ -258,9 +258,19 @@
                             [data-color-mode=dark] text {
                                 fill: #34ff00;
                             }
-
                             [data-color-mode=light] text {
                                 fill: #fff;
+                            }
+                            
+                            @media (prefers-color-scheme: dark) {
+                                text {
+                                    fill: #34ff00;
+                                }
+                            }
+                            @media (prefers-color-scheme: light) {
+                                text {
+                                    fill: #fff;
+                                }
                             }
                         </style>
                     </g>
