@@ -1,4 +1,4 @@
-📝 Latest posts [from my blog](https://blog.kartones.net/):
+📝 Latest posts from [my blog](https://blog.kartones.net/):
 
 <!--START_SECTION:blogposts-->
 * [Type inference complex scenarios - A BigQuery example](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;type-inference-complex-scenarios-bigquery-example&#x2F;)
@@ -10,6 +10,6 @@
 
 
 
-📋 I also have a few [gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest ([the PostgreSQL cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546) has +2.5k stars and hundreds of forks).
+📋 I also have [a few gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest, like [my PostgreSQL cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546) (+2.5k stars and 100s of forks).
 
 <img src="matrix-effect.svg" width="100%" height="128">
