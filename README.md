@@ -1,11 +1,11 @@
 📝 Latest posts from [my blog](https://blog.kartones.net/):
 
 <!--START_SECTION:blogposts-->
+* [Book Review: 97 Things Every Java Programmer Should Know](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-97-things-every-java-programmer-should-know&#x2F;)
 * [Course Review: Java Memory Management (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-java-memory-management-linkedin-learning&#x2F;)
 * [Book Review: Rocket Jump](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-rocket-jump&#x2F;)
 * [Book Review: 97 Things Every Programmer Should Know](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-97-things-every-programmer-should-know&#x2F;)
 * [Book Review: The New Corporation](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-the-new-corporation&#x2F;)
-* [Book Review: The Tech Resume Inside Out](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-the-tech-resume-inside-out&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
