@@ -9,8 +9,8 @@
 <!--END_SECTION:blogposts-->
 
 🤖 I've pinned down my two most starred repos, but other highlights are:
-* [pbrr](https://github.com/Kartones/pbrr): Pretty Basic RSS Reader
 * [finished-games](https://github.com/Kartones/finished-games): Track your videogames catalog with this Django website
+* [pbrr](https://github.com/Kartones/pbrr): Pretty Basic RSS Reader
 * [quaddicted-random-map](https://github.com/Kartones/quaddicted-random-map): Quaddicted random map launcher for Quake
 * [python](https://github.com/Kartones/python): Assorted repo with experiments, tools, scripts, mini-games...
 * [gameboy](https://github.com/Kartones/gameboy): Gameboy development examples and tools
