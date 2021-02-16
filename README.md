@@ -10,6 +10,7 @@
 
 🤖 I've pinned down my two most starred repos, but other highlights are:
 * [finished-games](https://github.com/Kartones/finished-games): Track your videogames catalog with this Django website
+* [flask-calendar](https://github.com/Kartones/flask-calendar): Simple Python & Flask web-calendar
 * [mazes-for-programmers-python-src](https://github.com/Kartones/mazes-for-programmers-python-src): Mazes for Programmers book examples adapted to Python
 * [pbrr](https://github.com/Kartones/pbrr): Pretty Basic RSS Reader
 * [quaddicted-random-map](https://github.com/Kartones/quaddicted-random-map): Quaddicted random map launcher for Quake
@@ -18,7 +19,7 @@
 
 
 
-📋 I also have [a few gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest.
+📋 I also have [a few gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest, like [my PostgreSQL cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546) (+2.5k stars and 100s of forks).
 
 <!--
 <img src="matrix-effect.svg" width="100%" height="128">
