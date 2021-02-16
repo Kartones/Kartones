@@ -8,7 +8,7 @@
 * [Book Review: 97 Things Every Programmer Should Know](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-97-things-every-programmer-should-know&#x2F;)
 <!--END_SECTION:blogposts-->
 
-🤖 I've pinned down my two most starred repos, but other highlights are:
+🤖 I've pinned down my two most popular repos, but other highlights are:
 * [finished-games](https://github.com/Kartones/finished-games): Track your videogames catalog with this Django website
 * [pbrr](https://github.com/Kartones/pbrr): Pretty Basic RSS Reader
 * [quaddicted-random-map](https://github.com/Kartones/quaddicted-random-map): Quaddicted random map launcher for Quake
