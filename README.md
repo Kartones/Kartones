@@ -8,6 +8,13 @@
 * [Book Review: 97 Things Every Programmer Should Know](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-97-things-every-programmer-should-know&#x2F;)
 <!--END_SECTION:blogposts-->
 
+🤖 I've pinned down my two most starred repos, but other highlights are:
+* [pbrr](https://github.com/Kartones/pbrr): Pretty Basic RSS Reader
+* [finished-games](https://github.com/Kartones/finished-games): Track your videogames catalog with this Django website
+* [quaddicted-random-map](https://github.com/Kartones/quaddicted-random-map): Quaddicted random map launcher for Quake
+* [python](https://github.com/Kartones/python): Assorted repo with experiments, tools, scripts, mini-games...
+* [gameboy](https://github.com/Kartones/gameboy): Gameboy development examples and tools
+
 
 
 📋 I also have [a few gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest, like [my PostgreSQL cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546) (+2.5k stars and 100s of forks).
