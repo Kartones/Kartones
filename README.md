@@ -1,6 +1,6 @@
 
 <details>
-  <summary>📝 Latest posts from <a href="https://blog.kartones.net/">my blog</a></summary>
+  <summary>📝 Click here to see the latest posts from <a href="https://blog.kartones.net/">my blog</a></summary>
 
 <!--START_SECTION:blogposts-->
 * [WebP and WebP v2](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;webp-and-webp-v2&#x2F;)
@@ -13,7 +13,7 @@
 </details>
 
 <details>
-<summary>🤖 I've pinned down my two most popular repos, other highlights</summary>
+<summary>🤖 I've pinned down my two most popular repos, click here to see other highlights</summary>
 
 * [finished-games](https://github.com/Kartones/finished-games): Track your videogames catalog with this Django website
 * [pbrr](https://github.com/Kartones/pbrr): Pretty Basic RSS Reader
