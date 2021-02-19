@@ -1,6 +1,6 @@
 
 <details>
-<summary>📝 Latest posts from [my blog](https://blog.kartones.net/)</summary>
+  <summary>📝 Latest posts from <a href="https://blog.kartones.net/">my blog</a></summary>
 
 <!--START_SECTION:blogposts-->
 * [WebP and WebP v2](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;webp-and-webp-v2&#x2F;)
