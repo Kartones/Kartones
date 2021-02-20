@@ -21,7 +21,7 @@
 
 </details>
 
-📝 I also have [a few gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest, like [my PostgreSQL cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546) (+2.6k stars and +800 forks)
+📝 I also have [a few gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest, like [a PostgreSQL cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546) (+2.6k stars and +800 forks)
 
 
 🗃️ Forked repos are <a href="https://github.com/kartones-forks/">here</a>
