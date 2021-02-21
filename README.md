@@ -1,6 +1,6 @@
 
 <details>
-  <summary>📚 Click here to see the latest posts from <a href="https://blog.kartones.net/">my blog</a></summary>
+  <summary>📚 To read the latest posts from <a href="https://blog.kartones.net/">my blog</a>, click here</summary>
 
 <!--START_SECTION:blogposts-->
 * [WebP and WebP v2](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;webp-and-webp-v2&#x2F;)
@@ -13,7 +13,7 @@
 </details>
 
 <details>
-<summary>📌 I've pinned down my "best" repos, click here to see other highlights</summary>
+<summary>📌 I've pinned down my "best" repos, to see other highlights click here</summary>
 
 * [pbrr](https://github.com/Kartones/pbrr): Pretty Basic RSS Reader
 * [quaddicted-random-map](https://github.com/Kartones/quaddicted-random-map): Quaddicted random map launcher for Quake
@@ -24,7 +24,7 @@
 📝 I also have [a few gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest, like [a PostgreSQL cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546) (+2.6k stars and +800 forks)
 
 
-🗃️ Forked repos are <a href="https://github.com/kartones-forks/">here</a>
+🗃️ My forked repos are <a href="https://github.com/kartones-forks/">here</a>
 
 <!--
 <img src="matrix-effect.svg" width="100%" height="128">
