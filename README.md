@@ -3,11 +3,11 @@
   <summary>📚 To read the latest posts from <a href="https://blog.kartones.net/">my blog</a>, click here</summary>
 
 <!--START_SECTION:blogposts-->
+* [Course Review: Become a Data Analyst (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-become-data-analyst-linkedin-learning&#x2F;)
 * [My Disposable Notebooks](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;my-disposable-notebooks&#x2F;)
 * [Diablo III Nintendo Switch &#x2F; yuzu cheats](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;diablo-3-switch-yuzu-cheats&#x2F;)
 * [Tinkering with Quake](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;tinkering-with-quake&#x2F;)
 * [Microsoft 365 Substrate](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;microsoft-365-substrate&#x2F;)
-* [WebP and WebP v2](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;webp-and-webp-v2&#x2F;)
 <!--END_SECTION:blogposts-->
 
 </details>
