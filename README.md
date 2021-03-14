@@ -15,10 +15,8 @@
 <details>
 <summary>📌 I've pinned down my "best" repos, to see other highlights click here</summary>
 
-* [pbrr](https://github.com/Kartones/pbrr): Pretty Basic RSS Reader
 * [quaddicted-random-map](https://github.com/Kartones/quaddicted-random-map): Quaddicted random map launcher for Quake
 * [python](https://github.com/Kartones/python): Assorted repo with experiments, tools, scripts, mini-games...
-* [mindcamp-x-gym-retro](https://github.com/Kartones/mindcamp-x-gym-retro): My first steps in reinforced learningm applied to retro videogames
 
 </details>
 
