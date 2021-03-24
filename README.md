@@ -3,11 +3,11 @@
   <summary>📚 To read the latest posts from <a href="https://blog.kartones.net/">my blog</a>, click here</summary>
 
 <!--START_SECTION:blogposts-->
-* [Book Review: Ten Arguments For Deleting Your Social Media Accounts Right Now](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-ten-arguments-deleting-social-media-accounts-now&#x2F;)
-* [PBRR - Pretty Basic RSS Reader](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;pbrr-pretty-basic-rss-reader&#x2F;)
-* [Course Review: Become a Data Analyst (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-become-data-analyst-linkedin-learning&#x2F;)
-* [My Disposable Notebooks](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;my-disposable-notebooks&#x2F;)
-* [Diablo III Nintendo Switch &#x2F; yuzu cheats](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;diablo-3-switch-yuzu-cheats&#x2F;)
+* [Jamagic: A good idea that faded away](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;jamagic-a-good-idea-that-faded-away&#x2F;)
+* [ASM to IL compiler](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;asm-to-il-compiler&#x2F;)
+* [Funny and curious story](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;funny-and-curious-story&#x2F;)
+* [.NET VNC Viewer for PocketPC](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;net-vnc-viewer-for-pocketpc&#x2F;)
+* [Visio 2003 for GUI prototyping](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;visio-2003-for-gui-prototyping&#x2F;)
 <!--END_SECTION:blogposts-->
 
 </details>
