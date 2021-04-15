@@ -1,6 +1,6 @@
 
 <details>
-  <summary>📚 To read the latest posts from <a href="https://blog.kartones.net/">my blog</a>, click here</summary>
+  <summary>📚 To see a list of the latest posts from <a href="https://blog.kartones.net/">my blog</a>, click here</summary>
 
 <!--START_SECTION:blogposts-->
 * [CSS-Only dark mode in 15 lines of code](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;css-only-dark-mode-in-15-lines-of-code&#x2F;)
