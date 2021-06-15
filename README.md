@@ -13,7 +13,8 @@
 📌 I've pinned down my "best" repos, but other highlights are:
 * [PBRR](https://github.com/Kartones/pbrr): Pretty Basic RSS Reader
 * [quaddicted-random-map](https://github.com/Kartones/quaddicted-random-map): Quaddicted random map launcher for Quake
-* [python](https://github.com/Kartones/python): Assorted repo with experiments, tools, scripts, mini-games...
+* [python](https://github.com/Kartones/python): Experiments, tools, scripts, mini-games...
+* [javascript](https://github.com/Kartones/JSAssorted): Experiments, mini-games (with links to playable demos)...
 * [mindcamp-x-gym-retro](https://github.com/Kartones/mindcamp-x-gym-retro): Companion code for a reinforced learning gym-retro talk 
 
 
