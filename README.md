@@ -20,9 +20,3 @@
 
 📝 I also have [a few gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest, like [a PostgreSQL cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546) (+2.7k stars and +800 forks)
 
-
-🗃️ My forked repos are <a href="https://github.com/kartones-forks/">here</a>
-
-<!--
-<img src="matrix-effect.svg" width="100%" height="128">
--->
