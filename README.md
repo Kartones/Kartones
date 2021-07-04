@@ -10,13 +10,7 @@
 <!--END_SECTION:blogposts-->
 
 
-📌 I've pinned down my "best" repos, but other highlights are:
-* [PBRR](https://github.com/Kartones/pbrr): Pretty Basic RSS Reader
-* [quaddicted-random-map](https://github.com/Kartones/quaddicted-random-map): Quaddicted random map launcher for Quake
-* [python](https://github.com/Kartones/python): Experiments, tools, scripts, mini-games...
-* [javascript](https://github.com/Kartones/JSAssorted): Experiments, mini-games (with links to playable demos)...
-* [mindcamp-x-gym-retro](https://github.com/Kartones/mindcamp-x-gym-retro): Companion code for a reinforced learning gym-retro talk 
+📌 I've pinned down my "best" repos, but other highlights are [a simple RSS Reader](https://github.com/Kartones/pbrr), a [random map launcher for the Quake videogame](https://github.com/Kartones/quaddicted-random-map), experiments, scripts & mini-games in [Python](https://github.com/Kartones/python) and [Javascript](https://github.com/Kartones/JSAssorted), or [the companion code for a reinforced learning gym-retro talk](https://github.com/Kartones/mindcamp-x-gym-retro) I gave a while ago.
 
-
-📝 I also have [a few gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest, like [a PostgreSQL cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546) (+2.8k stars and +800 forks)
+📝 I also have [a few gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest, like [a PostgreSQL cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546) (+2.8k stars and +800 forks).
 
