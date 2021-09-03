@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Book Review: System Design Interview](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-system-design-interview&#x2F;)
 * [A new chapter awaits](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;a-new-chapter-awaits&#x2F;)
 * [Zombie Infection Simulator mini-game](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;zombie-infection-simulator-mini-game&#x2F;)
 * [Book Review: Buffettology](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-buffettology&#x2F;)
 * [Toggling Firefox dark mode via bash script](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;toggling-firefox-dark-mode-via-bash-script&#x2F;)
-* [Company Employee Turnover Metrics](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;company-employee-turnover-metrics&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
