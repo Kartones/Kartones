@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Logging visit stats with NGINX](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;logging-visit-stats-with-nginx&#x2F;)
 * [Setting up my IndieWeb information](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;setting-up-my-indieweb-information&#x2F;)
 * [This isn&#39;t worth a post](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;this-isnt-worth-a-post&#x2F;)
 * [Book Review: Sid Meier&#39;s Memoir!](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-sid-meiers-memoir&#x2F;)
 * [Book Review: System Design Interview](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-system-design-interview&#x2F;)
-* [A new chapter awaits](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;a-new-chapter-awaits&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
