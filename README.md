@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Course Review: Unconscious Bias (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-unconscious-bias-linkedin-learning&#x2F;)
 * [On Learning React](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;on-learning-react&#x2F;)
 * [Book Review: Stairway to Badass: The Making and Remaking of Doom](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-stairway-to-badass-making-and-remaking-of-doom&#x2F;)
 * [Course Review: Node.js Essential Training (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-nodejs-essential-training-linkedin-learning&#x2F;)
 * [Logging visit stats with NGINX](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;logging-visit-stats-with-nginx&#x2F;)
-* [Setting up my IndieWeb information](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;setting-up-my-indieweb-information&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
