@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Object Oriented Python - A Summary](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;object-oriented-python&#x2F;)
 * [Course Review: Monorepos - A Beginner&#39;s Guide (Udemy)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;monorepos-beginners-guide-udemy-course-review&#x2F;)
 * [A few Monorepo related resources](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;monorepo-resources&#x2F;)
 * [Course Review: TypeScript Essential Training (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-typescript-essential-training-linkedin-learning&#x2F;)
 * [Course Review: Learning Typescript (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-learning-typescript-linkedin-learning&#x2F;)
-* [Avoiding relative imports in Javascript, TypeScript, Webpack and Jest](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;avoiding-relative-imports-in-javascript-typescript-webpack-and-jest&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
