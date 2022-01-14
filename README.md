@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Course Review: Learning Docker (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-learning-docker-linkedin-learning&#x2F;)
 * [Javascript Named Exports for testing](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;javascript-named-exports-for-testing&#x2F;)
 * [Object Oriented Python - A Summary](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;object-oriented-python&#x2F;)
 * [Course Review: Monorepos - A Beginner&#39;s Guide (Udemy)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;monorepos-beginners-guide-udemy-course-review&#x2F;)
 * [A few Monorepo related resources](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;monorepo-resources&#x2F;)
-* [Course Review: TypeScript Essential Training (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-typescript-essential-training-linkedin-learning&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
