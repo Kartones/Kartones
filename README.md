@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Multi-Language Wordle clone fork](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;multi-language-wordle-clone-fork&#x2F;)
 * [Learning the basics of Memcached](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;memcached-learning-basics&#x2F;)
 * [Course Review: Learning Kubernetes (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-learning-kubernetes-linkedin-learning&#x2F;)
 * [Course Review: Learning Docker (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-learning-docker-linkedin-learning&#x2F;)
 * [Javascript Named Exports for testing](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;javascript-named-exports-for-testing&#x2F;)
-* [Object Oriented Python - A Summary](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;object-oriented-python&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
