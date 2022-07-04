@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Parsing HTML and XML in Javascript](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;javascript-html-xml-parsing&#x2F;)
 * [Plain Text Accounting](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;plain-text-accounting&#x2F;)
 * [Book Review: Boinas Verdes: De Commandos a Pyro Studios](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-boinas-verdes-commandos-pyro-studios&#x2F;)
 * [Ubuntu &#x2F;bin and &#x2F;sbin symlink to &#x2F;usr&#x2F;bin](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;ubuntu-bin-sbin-symlink-to-usrbin&#x2F;)
 * [Python Hashbang&#x2F;Shebang](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;python-hashbang-shebang&#x2F;)
-* [Web Speech API](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;web-speech-api&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
