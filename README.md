@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Audiobook Review: Algorithms at Work](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;audiobook-review-algorithms-at-work&#x2F;)
 * [Trying Electron for packaging web apps](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;trying-electron-for-packaging-web-apps&#x2F;)
 * [Syndicate Map Viewer](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;syndicate-map-viewer&#x2F;)
 * [How to play Quake trilogy with modern engines](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;quake-trilogy-modern-engines-how-to&#x2F;)
 * [Parsing HTML and XML in Javascript](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;javascript-html-xml-parsing&#x2F;)
-* [Plain Text Accounting](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;plain-text-accounting&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
