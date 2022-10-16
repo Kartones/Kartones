@@ -10,7 +10,7 @@
 <!--END_SECTION:blogposts-->
 
 
-📌 Apart from my pinned repos below, other highlights are [a simple RSS Reader](https://github.com/Kartones/pbrr), a [random map launcher for Quake](https://github.com/Kartones/quaddicted-random-map), experiments, scripts & mini-games in [Python](https://github.com/Kartones/python) and [Javascript](https://github.com/Kartones/JSAssorted), or [the companion code for a reinforced learning gym-retro talk](https://github.com/Kartones/mindcamp-x-gym-retro).
+📌 Apart from my pinned repos below, other highlights are [a simple RSS Reader](https://github.com/Kartones/pbrr#pbrr---pretty-basic-rss-reader), a [videogames catalog website](https://github.com/Kartones/finished-games#finished-games) & ["lite" read-only viewer](https://github.com/Kartones/fg-viewer#finished-games-viewer), experiments, scripts & mini-games in [Python](https://github.com/Kartones/python#python-assorted-code) and [Javascript](https://github.com/Kartones/JSAssorted#javascript-assorted-code), or [the companion code for a reinforced learning gym-retro talk](https://github.com/Kartones/mindcamp-x-gym-retro#mindcamp-x-gym-retro-talk-companion-code-and-images).
 
 📝 I also have [a few gists](https://gist.github.com/Kartones?direction=desc&sort=updated) that might be of interest, like an apparently popular [PostgreSQL cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546).
 
