@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Always use linters and auto-formatters](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;always-use-linters-and-autoformatters&#x2F;)
 * [Cyberpunk 2077 New Game+ Hack](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;cyberpunk-2077-new-game-plus-hack&#x2F;)
 * [How to update Ubuntu Snap Store](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;how-to-update-ubuntu-snap-store&#x2F;)
 * [BazelCon 2022 Community Day Bootcamp](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;bazelcon-2022-community-day-bootcamp&#x2F;)
 * [Book Review: Python testing with Pytest](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-python-testing-with-pytest&#x2F;)
-* [Course Review: Kubernetes - The Documentary](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-kubernetes-the-documentary&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
