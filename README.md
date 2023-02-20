@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [CURL, Git, and more cheatsheets](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;curl-git-and-more-cheatsheets&#x2F;)
 * [I don&#39;t care much about SEO](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;i-dont-care-much-about-seo&#x2F;)
 * [Gazelle (Bazel): Loading other BUILD files](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;bazel-gazelle-loading-other-build-files&#x2F;)
 * [Emulation, Virtualization &amp; Compatibility Layers](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;emulation-virtualization-and-compatibility-layers&#x2F;)
 * [Dependency Injection in Javascript and Testing](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;dependency-injection-in-javascript-and-testing&#x2F;)
-* [Always use linters and auto-formatters](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;always-use-linters-and-autoformatters&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
