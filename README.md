@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [An interesting Evolutionary Design talk](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;an-interesting-evolutionary-design-talk&#x2F;)
 * [Perfect is the enemy of good](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;perfect-is-the-enemy-of-good&#x2F;)
 * [CURL, Git, and more cheatsheets](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;curl-git-and-more-cheatsheets&#x2F;)
 * [I don&#39;t care much about SEO](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;i-dont-care-much-about-seo&#x2F;)
 * [Gazelle (Bazel): Loading other BUILD files](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;bazel-gazelle-loading-other-build-files&#x2F;)
-* [Emulation, Virtualization &amp; Compatibility Layers](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;emulation-virtualization-and-compatibility-layers&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
