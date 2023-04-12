@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Classes in Javascript - 2023 edition](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;classes-in-javascript-2023-edition&#x2F;)
 * [Course Review: Go Essential Training (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-go-essential-training-linkedin-learning&#x2F;)
 * [Running Gazelle on Gazelle](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;running-bazel-gazelle-on-gazelle&#x2F;)
 * [An interesting Evolutionary Design talk](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;an-interesting-evolutionary-design-talk&#x2F;)
 * [Perfect is the enemy of good](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;perfect-is-the-enemy-of-good&#x2F;)
-* [CURL, Git, and more cheatsheets](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;curl-git-and-more-cheatsheets&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
