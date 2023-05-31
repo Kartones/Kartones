@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Markov Model Python Example](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;markov-model-python-example&#x2F;)
 * [Browser Automation via Chromium](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;browser-automation-via-chromium&#x2F;)
 * [Book Review: Pro Git](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-pro-git&#x2F;)
 * [Note-Taking and Knowledge Base](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;note-taking-and-knowledge-base&#x2F;)
 * [Classes in Javascript - 2023 edition](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;classes-in-javascript-2023-edition&#x2F;)
-* [Course Review: Go Essential Training (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-go-essential-training-linkedin-learning&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
