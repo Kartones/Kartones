@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Word prediction using a trie data structure](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;word-prediction-using-trie-data-structure&#x2F;)
 * [Python Imports 101](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;python-imports-101&#x2F;)
 * [Two Testing Anti-Patterns](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;two-testing-anti-patterns&#x2F;)
 * [Markov Model Python Example](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;markov-model-python-example&#x2F;)
 * [Browser Automation via Chromium](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;browser-automation-via-chromium&#x2F;)
-* [Book Review: Pro Git](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-pro-git&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
