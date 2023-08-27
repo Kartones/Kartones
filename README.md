@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Installing Windows 10 on the Asus ROG Ally RC71L](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;installing-windows-10-on-asus-rog-ally&#x2F;)
 * [Course Review: ChatGPT Prompt Engineering for Developers (DeepLearning.AI)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-cahtgpt-prompt-engineering-for-developers-deeplearningai&#x2F;)
 * [Some Code Generation papers](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;code-generation-papers&#x2F;)
 * [PSA: Deleted my Twitter account](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;deleted-my-twitter-account&#x2F;)
 * [Course Review: Building Java Microservices with gRPC (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-java-microservices-with-grpc-linkedin-learning&#x2F;)
-* [YouTube video summarizer script](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;youtube-video-summarizer&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
