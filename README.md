@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Tiny Markdown-Based Wiki](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;tiny-markdown-wiki&#x2F;)
 * [On multi-tasking and high WIP](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;multitasking-and-high-wip&#x2F;)
 * [Book Review: DOOM Guy](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-doom-guy-john-romero&#x2F;)
 * [Reproducible Builds](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;reproducible-builds&#x2F;)
 * [Book Review: At The Heart Of Management](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-at-the-heart-of-management&#x2F;)
-* [Course Review: Public Speaking for Non-Native English Speakers (LinkedIn Learning)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;course-review-public-speaking-for-non-native-english-speakers-linkedin-learning&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
