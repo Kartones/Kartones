@@ -10,5 +10,5 @@
 <!--END_SECTION:blogposts-->
 
 
-📌 Apart from my pinned repos below, other highlights are a [videogames catalog website](https://github.com/Kartones/finished-games#finished-games) & ["lite" read-only viewer](https://github.com/Kartones/fg-viewer#finished-games-viewer), and some experiments, scripts & mini-games in [Python](https://github.com/Kartones/python#python-assorted-code) and [Javascript](https://github.com/Kartones/JSAssorted#javascript-assorted-code).
+📌 Apart from my pinned repos below, other highlights are a [videogames catalog website](https://github.com/Kartones/finished-games#finished-games) & [lite read-only viewer](https://github.com/Kartones/fg-viewer#finished-games-viewer), and some experiments + scripts + mini-games at [Python](https://github.com/Kartones/python#python-assorted-code) and [Javascript](https://github.com/Kartones/JSAssorted#javascript-assorted-code).
 
