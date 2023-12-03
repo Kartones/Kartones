@@ -2,11 +2,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Content quality is suffering (as of late 2023)](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;content-quality-is-suffering-2023&#x2F;)
 * [Tiny Markdown-Based Wiki](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;tiny-markdown-wiki&#x2F;)
 * [On multi-tasking and high WIP](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;multitasking-and-high-wip&#x2F;)
 * [Book Review: DOOM Guy](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-doom-guy-john-romero&#x2F;)
 * [Reproducible Builds](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;reproducible-builds&#x2F;)
-* [Book Review: At The Heart Of Management](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-at-the-heart-of-management&#x2F;)
 <!--END_SECTION:blogposts-->
 
 
