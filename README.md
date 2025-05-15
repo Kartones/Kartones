@@ -9,3 +9,5 @@
 * [My local ML and LLMs setup - February 2025](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;my-local-ml-llms-setup-2025-02&#x2F;)
 <!--END_SECTION:blogposts-->
 
+
+💡 Forked repositories live in a separate org: [https://github.com/kartones-forks](https://github.com/kartones-forks)
