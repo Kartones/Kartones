@@ -10,4 +10,4 @@
 <!--END_SECTION:blogposts-->
 
 
-💡 Forked repositories live in a separate org: [https://github.com/kartones-forks](https://github.com/kartones-forks)
+💡 Forked repositories with trivial changes live in a separate org: [https://github.com/kartones-forks](https://github.com/kartones-forks)
