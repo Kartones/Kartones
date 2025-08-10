@@ -34,9 +34,9 @@ Past:
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [LLMs can&#39;t count reliably - and that’s not a problem](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;llms-cant-count-reliably-and-thats-not-a-problem&#x2F;)
 * [Why Go is a compelling choice for building CLI tooling](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;why-go-is-a-complelling-choice-for-building-cli-tooling&#x2F;)
 * [macOS Classic Gaming in 2025](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;macos-classic-gaming-in-2025&#x2F;)
 * [Your choice of agentic IDE or tool matters](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;your-choice-of-agentic-ide-or-tool-matters&#x2F;)
 * [LLMs are great at deoptimizing code for readability - Example with Lua](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;llms-are-great-deoptimizing-code&#x2F;)
-* [Does Cursor support a Kanban flow?](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;does-cursor-support-a-kanban-flow&#x2F;)
 <!--END_SECTION:blogposts-->
