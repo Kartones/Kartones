@@ -4,9 +4,7 @@
 <img src="https://images.kartones.net/langs/js.svg" alt="Javascript" title="Javascript" width="32" height="32" />
 <img src="https://images.kartones.net/langs/typescript.svg" alt="Typescript" title="Typescript" width="32" height="32" />
 <img src="https://images.kartones.net/langs/go.svg" alt="Go" title="Go" width="32" height="32" />
-<img src="https://images.kartones.net/langs/java.svg" alt="Java" title="Java" width="32" height="32" />
 <img src="https://images.kartones.net/langs/lua.svg" alt="Lua" title="Lua" width="32" height="32" />
-<img src="https://images.kartones.net/langs/html.svg" alt="HTML 5" title="HTML 5" width="32" height="32" />
 <img src="https://images.kartones.net/langs/bash.svg" alt="Bash" title="Bash" width="32" height="32" />
 <img src="https://images.kartones.net/langs/docker.svg" alt="Containers" title="Containers" width="32" height="32" />
 <img src="https://images.kartones.net/langs/git.svg" alt="Git" title="Git" width="32" height="32" />
@@ -16,10 +14,12 @@
 
 Past:
 
+<img src="https://images.kartones.net/langs/java.svg" alt="Java" title="Java" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/csharp.svg" alt="C#" title="C#" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/c.svg" alt="C" title="C" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/php.svg" alt="PHP" title="PHP" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/ruby.svg" alt="Ruby" title="Ruby" width="32" height="32" />
+<img src="https://images.kartones.net/langs/html.svg" alt="HTML 5" title="HTML 5" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/css.svg" alt="CSS" title="CSS" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/mysql.svg" alt="MySQL" title="MySQL" width="32" height="32" />
