@@ -1,5 +1,5 @@
 <p><div style="display: flex; gap: 2px; align-items: center;">
-Recent:
+
 <img src="https://images.kartones.net/langs/python.svg" alt="Python" title="Python" width="32" height="32" />
 <img src="https://images.kartones.net/langs/js.svg" alt="Javascript" title="Javascript" width="32" height="32" />
 <img src="https://images.kartones.net/langs/typescript.svg" alt="Typescript" title="Typescript" width="32" height="32" />
@@ -15,6 +15,7 @@ Recent:
 <img src="https://images.kartones.net/langs/apple.svg" alt="macOS" title="macOS" width="32" height="32" />
 
 Past:
+
 <img src="https://images.kartones.net/langs/past/csharp.svg" alt="C#" title="C#" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/c.svg" alt="C" title="C" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/php.svg" alt="PHP" title="PHP" width="32" height="32" />
