@@ -1,4 +1,16 @@
+📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
+
+<!--START_SECTION:blogposts-->
+* [Additional Windows 11 and BIOS gaming-related optimizations](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;additional-windows-11-and-bios-gaming-related-optimizations&#x2F;)
+* [Facebook and Tuenti faced the same Like button dilemma](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;facebook-and-tuenti-same-like-button-dilemma&#x2F;)
+* [Experimenting with GitHub Copilot Pro in a Django Project](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;experimenting-with-github-copilot-pro-in-a-django-project&#x2F;)
+* [Updated my old Web Toolkit page](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;web-toolkit-page-updated&#x2F;)
+* [LLMs can&#39;t count reliably - and that’s not a problem](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;llms-cant-count-reliably-and-thats-not-a-problem&#x2F;)
+<!--END_SECTION:blogposts-->
+
 <p><div style="display: flex; gap: 2px; align-items: center;">
+
+Current tech stack:
 
 <img src="https://images.kartones.net/langs/python.svg" alt="Python" title="Python" width="32" height="32" />
 <img src="https://images.kartones.net/langs/js.svg" alt="Javascript" title="Javascript" width="32" height="32" />
@@ -29,15 +41,4 @@ Past:
 <img src="https://images.kartones.net/langs/past/azure.svg" alt="Azure" title="Azure" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/windows.svg" alt="Windows" title="Windows" width="32" height="32" />
 
-
 </div></p>
-
-📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
-
-<!--START_SECTION:blogposts-->
-* [Additional Windows 11 and BIOS gaming-related optimizations](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;additional-windows-11-and-bios-gaming-related-optimizations&#x2F;)
-* [Facebook and Tuenti faced the same Like button dilemma](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;facebook-and-tuenti-same-like-button-dilemma&#x2F;)
-* [Experimenting with GitHub Copilot Pro in a Django Project](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;experimenting-with-github-copilot-pro-in-a-django-project&#x2F;)
-* [Updated my old Web Toolkit page](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;web-toolkit-page-updated&#x2F;)
-* [LLMs can&#39;t count reliably - and that’s not a problem](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;llms-cant-count-reliably-and-thats-not-a-problem&#x2F;)
-<!--END_SECTION:blogposts-->
