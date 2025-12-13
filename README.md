@@ -10,7 +10,7 @@
 
 <p><div style="display: flex; gap: 2px; align-items: center;">
 
-Current tech stack:
+Current tech stack I work & thinker with:
 
 <img src="https://images.kartones.net/langs/python.svg" alt="Python" title="Python" width="32" height="32" />
 <img src="https://images.kartones.net/langs/js.svg" alt="Javascript" title="Javascript" width="32" height="32" />
