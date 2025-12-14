@@ -1,11 +1,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Using pnpm Catalogs in monorepos](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;using-pnpm-catalogs-in-monorepos&#x2F;)
 * [Additional Windows 11 and BIOS gaming-related optimizations](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;additional-windows-11-and-bios-gaming-related-optimizations&#x2F;)
 * [Facebook and Tuenti faced the same Like button dilemma](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;facebook-and-tuenti-same-like-button-dilemma&#x2F;)
 * [Experimenting with GitHub Copilot Pro in a Django Project](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;experimenting-with-github-copilot-pro-in-a-django-project&#x2F;)
 * [Updated my old Web Toolkit page](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;web-toolkit-page-updated&#x2F;)
-* [LLMs can&#39;t count reliably - and that’s not a problem](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;llms-cant-count-reliably-and-thats-not-a-problem&#x2F;)
 <!--END_SECTION:blogposts-->
 
 <p><div style="display: flex; gap: 2px; align-items: center;">
