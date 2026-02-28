@@ -1,11 +1,11 @@
 📚 Latest posts from <a href="https://blog.kartones.net/">my blog</a>:
 
 <!--START_SECTION:blogposts-->
+* [Recent book purchases: x86 Assembly and Go](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;recent-book-purchases-x86-assembly-and-go&#x2F;)
 * [Coding Is No Longer My Main Skill](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;coding-is-no-longer-my-main-skill&#x2F;)
 * [Making AI Agents More Effective Without Fine-Tuning or RAG](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;making-ai-agents-more-effective-without-fine-tuning-or-rag&#x2F;)
 * [Updating a Django project from v2 to v6](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;updating-a-django-project-from-v2-to-v6&#x2F;)
 * [Book Review: The New Rules](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;book-review-the-new-rules&#x2F;)
-* [Using pnpm Catalogs in monorepos](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;using-pnpm-catalogs-in-monorepos&#x2F;)
 <!--END_SECTION:blogposts-->
 
 <p><div style="display: flex; gap: 2px; align-items: center;">
