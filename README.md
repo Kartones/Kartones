@@ -38,7 +38,6 @@ Past:
 <img src="https://images.kartones.net/langs/past/terraform.svg" alt="Terraform" title="Terraform" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/aws.svg" alt="AWS" title="AWS" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/azure.svg" alt="Azure" title="Azure" width="32" height="32" />
-<img src="https://images.kartones.net/langs/bash.svg" alt="Bash" title="Bash" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/windows.svg" alt="Windows" title="Windows" width="32" height="32" />
 
 </div></p>
