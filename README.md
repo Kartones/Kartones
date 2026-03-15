@@ -13,11 +13,10 @@
 Current tech stack I work & thinker with:
 
 <img src="https://images.kartones.net/langs/python.svg" alt="Python" title="Python" width="32" height="32" />
+<img src="https://images.kartones.net/langs/go.svg" alt="Go" title="Go" width="32" height="32" />
 <img src="https://images.kartones.net/langs/js.svg" alt="Javascript" title="Javascript" width="32" height="32" />
 <img src="https://images.kartones.net/langs/typescript.svg" alt="Typescript" title="Typescript" width="32" height="32" />
-<img src="https://images.kartones.net/langs/go.svg" alt="Go" title="Go" width="32" height="32" />
 <img src="https://images.kartones.net/langs/lua.svg" alt="Lua" title="Lua" width="32" height="32" />
-<img src="https://images.kartones.net/langs/bash.svg" alt="Bash" title="Bash" width="32" height="32" />
 <img src="https://images.kartones.net/langs/docker.svg" alt="Containers" title="Containers" width="32" height="32" />
 <img src="https://images.kartones.net/langs/git.svg" alt="Git" title="Git" width="32" height="32" />
 <img src="https://images.kartones.net/langs/gcp.svg" alt="GCP" title="GCP" width="32" height="32" />
@@ -39,6 +38,7 @@ Past:
 <img src="https://images.kartones.net/langs/past/terraform.svg" alt="Terraform" title="Terraform" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/aws.svg" alt="AWS" title="AWS" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/azure.svg" alt="Azure" title="Azure" width="32" height="32" />
+<img src="https://images.kartones.net/langs/bash.svg" alt="Bash" title="Bash" width="32" height="32" />
 <img src="https://images.kartones.net/langs/past/windows.svg" alt="Windows" title="Windows" width="32" height="32" />
 
 </div></p>
