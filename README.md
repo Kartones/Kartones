@@ -20,7 +20,7 @@ Current tech stack I work & thinker with:
 <img src="https://images.kartones.net/langs/docker.svg" alt="Containers" title="Containers" width="32" height="32" />
 <img src="https://images.kartones.net/langs/git.svg" alt="Git" title="Git" width="32" height="32" />
 <img src="https://images.kartones.net/langs/gcp.svg" alt="GCP" title="GCP" width="32" height="32" />
-<img src="https://images.kartones.net/langs/linux.svg" alt="Linux" title="Linux" width="32" height="32" />
 <img src="https://images.kartones.net/langs/apple.svg" alt="macOS" title="macOS" width="32" height="32" />
+<img src="https://images.kartones.net/langs/linux.svg" alt="Linux" title="Linux" width="32" height="32" />
 
 </div></p>
