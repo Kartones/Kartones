@@ -23,21 +23,4 @@ Current tech stack I work & thinker with:
 <img src="https://images.kartones.net/langs/linux.svg" alt="Linux" title="Linux" width="32" height="32" />
 <img src="https://images.kartones.net/langs/apple.svg" alt="macOS" title="macOS" width="32" height="32" />
 
-Past:
-
-<img src="https://images.kartones.net/langs/java.svg" alt="Java" title="Java" width="32" height="32" />
-<img src="https://images.kartones.net/langs/past/csharp.svg" alt="C#" title="C#" width="32" height="32" />
-<img src="https://images.kartones.net/langs/past/c.svg" alt="C" title="C" width="32" height="32" />
-<img src="https://images.kartones.net/langs/past/php.svg" alt="PHP" title="PHP" width="32" height="32" />
-<img src="https://images.kartones.net/langs/past/ruby.svg" alt="Ruby" title="Ruby" width="32" height="32" />
-<img src="https://images.kartones.net/langs/html.svg" alt="HTML 5" title="HTML 5" width="32" height="32" />
-<img src="https://images.kartones.net/langs/past/css.svg" alt="CSS" title="CSS" width="32" height="32" />
-<img src="https://images.kartones.net/langs/past/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="32" height="32" />
-<img src="https://images.kartones.net/langs/past/mysql.svg" alt="MySQL" title="MySQL" width="32" height="32" />
-<img src="https://images.kartones.net/langs/past/redis.svg" alt="Redis" title="Redis" width="32" height="32" />
-<img src="https://images.kartones.net/langs/past/terraform.svg" alt="Terraform" title="Terraform" width="32" height="32" />
-<img src="https://images.kartones.net/langs/past/aws.svg" alt="AWS" title="AWS" width="32" height="32" />
-<img src="https://images.kartones.net/langs/past/azure.svg" alt="Azure" title="Azure" width="32" height="32" />
-<img src="https://images.kartones.net/langs/past/windows.svg" alt="Windows" title="Windows" width="32" height="32" />
-
 </div></p>
