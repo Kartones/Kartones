@@ -10,7 +10,7 @@
 
 <p><div style="display: flex; gap: 2px; align-items: center;">
 
-Current tech stack I work & thinker with:
+Current tech stack I work & tinker with:
 
 <img src="https://images.kartones.net/langs/python.svg" alt="Python" title="Python" width="32" height="32" />
 <img src="https://images.kartones.net/langs/go.svg" alt="Go" title="Go" width="32" height="32" />
