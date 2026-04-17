@@ -8,19 +8,3 @@
 * [Coding Is No Longer My Main Skill](https:&#x2F;&#x2F;blog.kartones.net&#x2F;post&#x2F;coding-is-no-longer-my-main-skill&#x2F;)
 <!--END_SECTION:blogposts-->
 
-<p><div style="display: flex; gap: 2px; align-items: center;">
-
-Current tech stack I work & tinker with:
-
-<img src="https://images.kartones.net/langs/python.svg" alt="Python" title="Python" width="32" height="32" />
-<img src="https://images.kartones.net/langs/go.svg" alt="Go" title="Go" width="32" height="32" />
-<img src="https://images.kartones.net/langs/js.svg" alt="Javascript" title="Javascript" width="32" height="32" />
-<img src="https://images.kartones.net/langs/typescript.svg" alt="Typescript" title="Typescript" width="32" height="32" />
-<img src="https://images.kartones.net/langs/lua.svg" alt="Lua" title="Lua" width="32" height="32" />
-<img src="https://images.kartones.net/langs/docker.svg" alt="Containers" title="Containers" width="32" height="32" />
-<img src="https://images.kartones.net/langs/git.svg" alt="Git" title="Git" width="32" height="32" />
-<img src="https://images.kartones.net/langs/gcp.svg" alt="GCP" title="GCP" width="32" height="32" />
-<img src="https://images.kartones.net/langs/apple.svg" alt="macOS" title="macOS" width="32" height="32" />
-<img src="https://images.kartones.net/langs/linux.svg" alt="Linux" title="Linux" width="32" height="32" />
-
-</div></p>
